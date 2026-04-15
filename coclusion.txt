@@ -1,0 +1,6 @@
+durante la elaboración y la ejecución del proyecto adquirí conocimiento sobre el manejo de archivos en java
+incluyendo una lectura y escritura de archivos.
+
+se logra implementar un sistema que genera información de vendedores productos y ventas de manera automática,
+genera y simula un entorno real de procesamiento de datos lo cual esto se puede aplicar en el ambiente
+profesional en sistemas de información, análisis de datos y software profesional.
