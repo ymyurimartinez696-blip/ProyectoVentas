@@ -1,8 +1,10 @@
-v# 📊 Proyecto de Ventas - Java
+ Proyecto de Ventas - Java
 
 
 
 Este proyecto en Java permite generar y procesar archivos de ventas, vendedores y productos, creando reportes automáticos en formato CSV.
+
+---
 
 Funcionalidades:
 
